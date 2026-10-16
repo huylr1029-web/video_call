@@ -1,7 +1,4 @@
 # Demo gọi video Agora RTC SDK (Flutter)
-
-Được tách từ dự án `nhom6.zip`. **Không cần Firebase, tài khoản, Firestore hoặc hệ thống nhắn tin.** Gọi trực tiếp bằng Channel ID chung.
-
 ## Yêu cầu
 - Flutter/Dart có Android SDK, hai máy Android (hoặc một máy và một emulator có hỗ trợ camera/micro)
 - Agora App ID từ https://console.agora.io
